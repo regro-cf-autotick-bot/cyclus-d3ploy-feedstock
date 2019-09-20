@@ -1,6 +1,6 @@
 {% set name = "d3ploy" %}
-{% set version = "0.8" %}
-{% set sha256 = "f98c4984974a834963b474be394f10aac718d72ba5ea48c0da2ca098ff202943" %}
+{% set version = "1.0" %}
+{% set sha256 = "ab6935d1495d4bc1aead24f1e580514d3667ca4b0f1da623e9120690ebe2ecbd" %}
 
 package:
   name: cyclus-{{ name|lower }}
